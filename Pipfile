@@ -7,6 +7,7 @@ name = "pypi"
 transformers = "*"
 pysbd = "*"
 torch = "*"
+sentencepiece = "*"
 
 [dev-packages]
 

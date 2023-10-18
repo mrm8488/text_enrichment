@@ -8,14 +8,14 @@ Of course! Here's a fancy `README.md` for the `text_enrichment` library:
 Unlock deeper insights from your text data. The Text Enrichment Library provides a simple interface to extract valuable metadata from chunks of text using state-of-the-art models.
 
 <p align="center">
-  <img src="./assets/text_enricher_logo.png" width="200">
+  <img src="./assets/text_enricher.png" width="200">
 </p>
 
 ## 🚀 Features
 
 - **Named Entity Recognition (NER)**: Extract names of entities from your text.
 - **Entity Linking**: Link identified entities to a knowledge base.
-- **Batch Handling**: Efficiently process large volumes of text with multiple batching strategies.
+- **Batch/Splitting Handling**: Efficiently process large volumes of text with multiple batching strategies.
   
 ## 🛠 Installation
 
