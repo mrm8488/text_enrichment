@@ -1,7 +1,3 @@
-Of course! Here's a fancy `README.md` for the `text_enrichment` library:
-
----
-
 # 📚 Text Enrichment Library
 
 
