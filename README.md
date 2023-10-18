@@ -1,4 +1,4 @@
-# 📚 Text Enrichment Library
+# 📚 Text Enrichment Library (WIP)
 
 
 Unlock deeper insights from your text data. The Text Enrichment Library provides a simple interface to extract valuable metadata from chunks of text using state-of-the-art models.
